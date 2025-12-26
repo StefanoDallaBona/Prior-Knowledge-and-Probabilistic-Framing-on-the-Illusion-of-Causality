@@ -5,9 +5,15 @@ The project is also available on OSF (link to the project: [OSF Project](https:/
 **EXPERIMENT 1:**
 
 - **The "Back Translation" folder** contains the results of the back-translation procedure that we used to translate the three conditions in our experiment from Italian to English.
+
+- **The "Conditions" folder** contains the .xlsx file to run the PsychoPy experiment with a null contingency.
   
 - **The "Design Analysis" folder** contains the procedure we used to determine a sample size for the two comparisons and the priors that we intend to use to provide statistical evidence for both H0 and H1.
 
 **EXPERIMENT 2:**
 
+- **The "Back Translation" folder** contains our experiment English texts.
+  
+- **The "Conditions II" folder** contains the .xlsx file to run the PsychoPy experiment with a positive contingency.
+  
 - **The "Design Analysis II" folder** contains the procedure we used to determine inferential risks for our second experiment, which matched experiment 1 numerosity.
