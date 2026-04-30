@@ -1,60 +1,79 @@
 # GitHub Repository — "The Role of Prior Knowledge and Probabilistic Framing on the Illusion of Causality"
 
-This repository contains all supplementary materials for the manuscript *"The Role of Prior Knowledge and Probabilistic Framing on the Illusion of Causality."*
+This repository contains all supplementary materials for the project *"The Role of Prior Knowledge 
+and Probabilistic Framing on the Illusion of Causality."*
 
-The project is also available on OSF: [OSF Project](https://osf.io/qf5xm/?view_only=c3c8308055654455b19bfa6ded2473ef).
+The project description is available on OSF: [OSF Project](https://osf.io/qf5xm/?view_only=c3c8308055654455b19bfa6ded2473ef).
 Please read the OSF project page and the related pre-registrations before accessing the materials below.
 
 ---
 
-## Before Data Collection
+## Materials Before Data Collection
 
 ### Experiment 1
-- **`Back Translation/`** — Results of the back-translation procedure used to translate the three experimental conditions from Italian to English.
-- **`Conditions/`** — The `.xlsx` file used to run the PsychoPy experiment with a **null contingency**.
-- **`Design Analysis/`** — Sample size determination procedure and the priors used to provide statistical evidence for both H0 and H1.
+
+| Folder | Description |
+|--------|-------------|
+| `Back Translation/` | Results of the back-translation procedure used to translate the three experimental conditions from Italian to English |
+| `Conditions/` | The `.xlsx` file used to run the PsychoPy experiment with a **null contingency** |
+| `Design Analysis/` | Sample size determination procedure and the priors used to provide statistical evidence for both H0 and H1 |
 
 ### Experiment 2
-- **`Back Translation/`** — English texts for the second experiment.
-- **`Conditions II/`** — The `.xlsx` file used to run the PsychoPy experiment with a **positive contingency**.
-- **`Design Analysis II/`** — Inferential risk determination procedure for Experiment 2, matched to Experiment 1 sample size.
+
+| Folder | Description |
+|--------|-------------|
+| `Back Translation/` | English texts for the second experiment |
+| `Conditions II/` | The `.xlsx` file used to run the PsychoPy experiment with a **positive contingency** |
+| `Design Analysis II/` | Inferential risk determination procedure for Experiment 2, matched to Experiment 1 sample size |
 
 ---
 
-## After Data Collection
+## Materials After Data Collection
 
 ### Experiment 1 — `EXP1 Data and Analysis/`
+
 | File | Description |
 |------|-------------|
-| `RawData_EXP1.zip` | Raw data from Experiment 1 |
+| `RawData_EXP1.zip` | Raw data from Experiment 1 *(hosted on OSF)* |
 | `firstDataset.csv` | Cleaned dataset extracted from raw data |
 | `VariablesS.csv` | Parameter file used by the analysis pipeline to extract the dataset (see analysis document) |
 | `tbt.csv` | Trial-by-trial information extracted during the main task |
-| `MAIN-ANALYSIS1.html` | Main analysis document for Experiment 1 |
+| `MAIN-ANALYSIS1.html` | Main analysis document for Experiment 1 *(hosted on OSF)* |
 
 ### Experiment 2 — `EXP2 Data and Analysis/`
+
 | File | Description |
 |------|-------------|
-| `RawData_EXP2.zip` | Raw data from Experiment 2 |
+| `RawData_EXP2.zip` | Raw data from Experiment 2 *(hosted on OSF)* |
 | `secondDataset.csv` | Cleaned dataset extracted from raw data |
 | `VariablesS.csv` | Parameter file used by the analysis pipeline to extract the dataset (see analysis document) |
 | `tbt.csv` | Trial-by-trial information extracted during the main task |
-| `MAIN-ANALYSIS2.html` | Main analysis document for Experiment 2 |
+| `MAIN-ANALYSIS2.html` | Main analysis document for Experiment 2 *(hosted on OSF)* |
 
 ---
 
 ## Other Materials
 
+### `Experiment/`
+
+Contains the experiment scripts used to run both experiments.
+
+| File | Description |
+|------|-------------|
+| `Experiment.zip`  | *Psychopy Experiment* |
+
 ### `MPT Model/`
+
 Contains the analysis for constructing the Multinomial Processing Tree (MPT) model used to summarize the main results.
 
 | File | Description |
 |------|-------------|
-| `MAIN-ANALYSIS-MPT.html` | MPT model analysis document |
+| `MAIN-ANALYSIS-MPT.html` | MPT model analysis document *(hosted on OSF)* |
 | `firstDataset.csv` | Experiment 1 dataset |
 | `secondDataset.csv` | Experiment 2 dataset |
 
 ### `Rater Task/`
+
 Contains materials related to the rating of participant strategies on open-ended questions.
 
 | File | Description |
