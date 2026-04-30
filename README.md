@@ -15,7 +15,7 @@ Please read the OSF project page and the related pre-registrations before access
 | Folder | Description |
 |--------|-------------|
 | `Back Translation/` | Results of the back-translation procedure used to translate the three experimental conditions from Italian to English |
-| `Conditions/` | The `.xlsx` file used to run the PsychoPy experiment with a **null contingency** |
+| `Conditions/` | The `.xlsx` file used to run the PsychoPy experiment with a null contingency |
 | `Design Analysis/` | Sample size determination procedure and the priors used to provide statistical evidence for both H0 and H1 |
 
 ### Experiment 2
@@ -23,7 +23,7 @@ Please read the OSF project page and the related pre-registrations before access
 | Folder | Description |
 |--------|-------------|
 | `Back Translation/` | English texts for the second experiment |
-| `Conditions II/` | The `.xlsx` file used to run the PsychoPy experiment with a **positive contingency** |
+| `Conditions II/` | The `.xlsx` file used to run the PsychoPy experiment with a positive contingency |
 | `Design Analysis II/` | Inferential risk determination procedure for Experiment 2, matched to Experiment 1 sample size |
 
 ---
@@ -34,21 +34,21 @@ Please read the OSF project page and the related pre-registrations before access
 
 | File | Description |
 |------|-------------|
-| `RawData_EXP1.zip` | Raw data from Experiment 1 *(hosted on OSF)* |
+| `RawData_EXP1.zip` | Raw data from Experiment 1  |
 | `firstDataset.csv` | Cleaned dataset extracted from raw data |
 | `VariablesS.csv` | Parameter file used by the analysis pipeline to extract the dataset (see analysis document) |
 | `tbt.csv` | Trial-by-trial information extracted during the main task |
-| `MAIN-ANALYSIS1.html` | Main analysis document for Experiment 1 *(hosted on OSF)* |
+| `MAIN-ANALYSIS1.html` | Main analysis document for Experiment 1  |
 
 ### Experiment 2 — `EXP2 Data and Analysis/`
 
 | File | Description |
 |------|-------------|
-| `RawData_EXP2.zip` | Raw data from Experiment 2 *(hosted on OSF)* |
+| `RawData_EXP2.zip` | Raw data from Experiment 2 |
 | `secondDataset.csv` | Cleaned dataset extracted from raw data |
 | `VariablesS.csv` | Parameter file used by the analysis pipeline to extract the dataset (see analysis document) |
 | `tbt.csv` | Trial-by-trial information extracted during the main task |
-| `MAIN-ANALYSIS2.html` | Main analysis document for Experiment 2 *(hosted on OSF)* |
+| `MAIN-ANALYSIS2.html` | Main analysis document for Experiment 2  |
 
 ---
 
@@ -60,7 +60,7 @@ Contains the experiment scripts used to run both experiments.
 
 | File | Description |
 |------|-------------|
-| `Experiment.zip`  | *Psychopy Experiment* |
+| `Experiment.zip`  | Psychopy Experiment |
 
 ### `MPT Model/`
 
@@ -68,7 +68,7 @@ Contains the analysis for constructing the Multinomial Processing Tree (MPT) mod
 
 | File | Description |
 |------|-------------|
-| `MAIN-ANALYSIS-MPT.html` | MPT model analysis document *(hosted on OSF)* |
+| `MAIN-ANALYSIS-MPT.html` | MPT model analysis document|
 | `firstDataset.csv` | Experiment 1 dataset |
 | `secondDataset.csv` | Experiment 2 dataset |
 
