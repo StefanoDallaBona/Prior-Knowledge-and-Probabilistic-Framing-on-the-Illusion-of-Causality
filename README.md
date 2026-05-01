@@ -48,7 +48,7 @@ Please read the OSF project page and the related pre-registrations before access
 Contains the experiment scripts used to run both experiments.
  
 - **`Experiment.zip`** — PsychoPy experiment files.
-- 
+  
 ### `MPT Model/`
  
 Contains the analysis file for constructing the Multinomial Processing Tree (MPT) model used to summarize the main results.
