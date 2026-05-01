@@ -10,15 +10,15 @@ Please read the OSF project page and the related pre-registrations before access
 ## Materials Before Data Collection
  
 ### Experiment 1
-
 - **`Back Translation/`** — Results of the back-translation procedure used to translate the three experimental conditions from Italian to English.
 - **`Conditions/`** — The `.xlsx` file used to run the PsychoPy experiment with a null contingency.
 - **`Design Analysis/`** — Sample size determination procedure and the priors used to provide statistical evidence for both H0 and H1.
+  
 ### Experiment 2
- 
 - **`Back Translation/`** — English texts for the second experiment.
 - **`Conditions II/`** — The `.xlsx` file used to run the PsychoPy experiment with a positive contingency.
 - **`Design Analysis II/`** — Inferential risk determination procedure for Experiment 2, matched to Experiment 1 sample size.
+  
 ---
  
 ## Materials After Data Collection
@@ -30,7 +30,7 @@ Please read the OSF project page and the related pre-registrations before access
 - **`VariablesS.csv`** — Parameter file used by the analysis pipeline to extract the dataset (see analysis document).
 - **`tbt.csv`** — Trial-by-trial information parameter file used by the analysis pipeline to extract the additional dataset.
 - **`MAIN-ANALYSIS1.html`** — Main analysis document for Experiment 1.
-- 
+  
 ### Experiment 2 — `EXP2 Data and Analysis/`
  
 - **`RawData_EXP2.zip`** — Raw data from Experiment 2.
@@ -55,7 +55,7 @@ Contains the analysis file for constructing the Multinomial Processing Tree (MPT
 - **`MAIN-ANALYSIS-MPT.html`** — MPT model analysis document.
 - **`firstDataset.csv`** — Experiment 1 dataset.
 - **`secondDataset.csv`** — Experiment 2 dataset.
-- 
+  
 ### `Rater Task/`
  
 Contains materials related to the rating of participant strategies on open-ended questions.
