@@ -10,11 +10,10 @@ Please read the OSF project page and the related pre-registrations before access
 ## Materials Before Data Collection
  
 ### Experiment 1
- 
+
 - **`Back Translation/`** — Results of the back-translation procedure used to translate the three experimental conditions from Italian to English.
 - **`Conditions/`** — The `.xlsx` file used to run the PsychoPy experiment with a null contingency.
 - **`Design Analysis/`** — Sample size determination procedure and the priors used to provide statistical evidence for both H0 and H1.
-
 ### Experiment 2
  
 - **`Back Translation/`** — English texts for the second experiment.
