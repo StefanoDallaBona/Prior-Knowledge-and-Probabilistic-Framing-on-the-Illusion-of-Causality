@@ -29,14 +29,15 @@ Please read the OSF project page and the related pre-registrations before access
 - **`RawData_EXP1.zip`** — Raw data from Experiment 1.
 - **`firstDataset.csv`** — Cleaned dataset extracted from raw data.
 - **`VariablesS.csv`** — Parameter file used by the analysis pipeline to extract the dataset (see analysis document).
-- **`tbt.csv`** — Trial-by-trial information extracted during the main task.
+- **`tbt.csv`** — Trial-by-trial information parameter file used by the analysis pipeline to extract the additional dataset.
 - **`MAIN-ANALYSIS1.html`** — Main analysis document for Experiment 1.
+- 
 ### Experiment 2 — `EXP2 Data and Analysis/`
  
 - **`RawData_EXP2.zip`** — Raw data from Experiment 2.
 - **`secondDataset.csv`** — Cleaned dataset extracted from raw data.
 - **`VariablesS.csv`** — Parameter file used by the analysis pipeline to extract the dataset (see analysis document).
-- **`tbt.csv`** — Trial-by-trial information extracted during the main task.
+- **`tbt.csv`** — Trial-by-trial information parameter file used by the analysis pipeline to extract the additional dataset.
 - **`MAIN-ANALYSIS2.html`** — Main analysis document for Experiment 2.
 ---
  
@@ -47,13 +48,15 @@ Please read the OSF project page and the related pre-registrations before access
 Contains the experiment scripts used to run both experiments.
  
 - **`Experiment.zip`** — PsychoPy experiment files.
+- 
 ### `MPT Model/`
  
-Contains the analysis for constructing the Multinomial Processing Tree (MPT) model used to summarize the main results.
+Contains the analysis file for constructing the Multinomial Processing Tree (MPT) model used to summarize the main results.
  
 - **`MAIN-ANALYSIS-MPT.html`** — MPT model analysis document.
 - **`firstDataset.csv`** — Experiment 1 dataset.
 - **`secondDataset.csv`** — Experiment 2 dataset.
+- 
 ### `Rater Task/`
  
 Contains materials related to the rating of participant strategies on open-ended questions.
@@ -62,8 +65,8 @@ Contains materials related to the rating of participant strategies on open-ended
 - **`RaterInstructions.pdf`** — Instructions provided to raters.
 - **`DATAEXP1.csv`** — Participants' open-ended responses from Experiment 1.
 - **`DATAEXP2.csv`** — Participants' open-ended responses from Experiment 2.
-- **`results_x.csv`** — Raw rater outputs.
-- **`conditionresolution.csv`** — Conflict resolutions for the condition variable.
-- **`inforesolution.csv`** — Conflict resolutions for the info variable.
-- **`contextresolution.csv`** — Conflict resolutions for the context variable.
+- **`results_x.csv`** — Raw rater outputs (either for Experiment 1 or 2); used also in the analysis documents.
+- **`conditionresolution.csv`** — Raters resolutions for the condition variable (either for Experiment 1 or 2).
+- **`inforesolution.csv`** — Raters resolutions for the info variable (either for Experiment 1 or 2).
+- **`contextresolution.csv`** — Raters resolutions for the context variable (either for Experiment 1 or 2).
 > Resolution files can be opened either via the Shiny app or through the main analysis pipeline.
