@@ -43,10 +43,19 @@ Please read the OSF project page and the related pre-registrations before access
 ## Other Materials
  
 ### `Experiment/`
- 
-Contains the experiment scripts used to run both experiments.
- 
-- **`Experiment.zip`** — PsychoPy experiment files.
+
+Contains the experiment scripts used to run Experiments 1 and 2 and the Validation Experiment.
+
+- `Experiment.zip` — PsychoPy experiment files for Experiments 1 and 2.
+- `ManipulationExperiment.zip` — PsychoPy experiment files for the manipulation check validation Experiment.
+
+### `ManipulationCheck/`
+
+Contains materials related to the manipulation check validation experiment, conducted to descriptively assess whether the cover stories produced the intended manipulations of prior expectations and framing.
+
+- `RawData_ManipulationCheck.zip` — Raw data from the manipulation check experiment.
+- `thirdDataset.csv` — Cleaned dataset extracted from the raw data.
+- `Analysis_ManipulationCheck.html` — Main analysis document for the manipulation check experiment.
   
 ### `MPT Model/`
  
@@ -69,3 +78,4 @@ Contains materials related to the rating of participant strategies on open-ended
 - **`inforesolution.csv`** — Raters resolutions for the info variable (either for Experiment 1 or 2).
 - **`contextresolution.csv`** — Raters resolutions for the context variable (either for Experiment 1 or 2).
 > Resolution files can be opened either via the Shiny app or through the main analysis pipeline.
+> 
